@@ -1,0 +1,7 @@
+# Dependency directories
+.vscode/
+lib/
+node_modules/
+
+
+
